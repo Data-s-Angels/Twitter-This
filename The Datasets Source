@@ -1,0 +1,11 @@
+### We used Biden, Clinton and Trump's Datasets to answer our Evaluation Questions: 
+
+#### 1. How do the candidates’ tweets evolve from the beginning of their campaigns? 
+#### 2. What kinds of tweets evolve from the beginning of their campaigns?
+#### 3. What content is most commonly addressed in their tweets?
+
+### Here are the our sources :
+
+#### Biden's Tweets : https://www.kaggle.com/rohanrao/joe-biden-tweets
+
+#### Clinton adn Trump Tweets : https://www.kaggle.com/benhamner/clinton-trump-tweets
